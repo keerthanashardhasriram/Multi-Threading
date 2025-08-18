@@ -29,6 +29,8 @@ There are 2 types of creating a thread:
 1. By extending a Thread class.
 2. By implementing a Runnable Interface.
 
+
+
 1. By extending a Thread class.
 
 Java provides a Thread class to acheive thread programming. It contains Thread based libraries.
